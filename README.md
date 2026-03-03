@@ -3,9 +3,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Subject
 
-本專案嘗試透過 Codex 進行 Vibe coding，串接 GCP Maps API 打造旅宿搜尋 MVP，可透過文字或地圖查詢附近旅宿。
+本專案嘗試透過 Codex 進行 coding 協作，串接 GCP Maps API 打造旅宿搜尋 MVP，可透過文字或地圖查詢附近旅宿。
 
-This project is an experiment in vibe coding with Codex, building a lodging-search MVP powered by the GCP Maps API, with nearby accommodations discoverable via text or map search.
+This project attempts to collaborate on coding through Codex and integrates the GCP Maps API to build a lodging search MVP. Users can search for nearby accommodations either through text input or directly via the map interface.
+
+## Features
+
+1. 以地圖，座標範圍內搜尋
+2. 以文字，該地點座標範圍搜尋
+3. 文字搜尋推薦 autocomplete 功能
+
 
 ## Getting Started
 
